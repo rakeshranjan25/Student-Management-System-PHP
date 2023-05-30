@@ -1,2 +1,29 @@
-# Student-Management-System
-Student Management System is software which is helpful for students as well as the school/college authorities.
+How to run the Student Management System (StudentMS) Project
+
+1. Download the  zip file
+
+2. Extract the file and copy studentms folder
+
+3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name studentmsdb
+
+6. Import studentmsdb.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/studentms (frontend)
+
+
+
+Credential for admin panel :
+
+Username: admin
+Password: admin
+
+Credential for Student / User panel :
+
+Username: rakesh
+Password: rakesh
+
+ Or Register a new Student/User.
