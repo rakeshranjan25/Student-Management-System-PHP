@@ -10,7 +10,7 @@ How to run the Student Management System (StudentMS) Project
 
 5. Create a database with name studentmsdb
 
-6. Import studentmsdb.sql file(given inside the zip package in SQL file folder)
+6. Import studentmsdb.sql file(given inside the package in SQL file folder)
 
 7.Run the script http://localhost/studentms (frontend)
 
